@@ -66,7 +66,8 @@
         <hibernate-validator.version>5.2.4.Final</hibernate-validator.version>
         <hibernate-jpa-2.1-api.version>1.0.0.Final</hibernate-jpa-2.1-api.version>
 
-        <!-- log -->
+        <!-- log log4j2 注入漏洞 -->
+        <log4j2.version>2.15.0</log4j2.version>
         <slf4j.version>1.7.21</slf4j.version>
 
         <!-- redisson -->
