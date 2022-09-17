@@ -29,6 +29,10 @@
             <groupId>com.empty</groupId>
             <artifactId>empty-framework-core</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.empty</groupId>
+            <artifactId>empty-framework-common</artifactId>
+        </dependency>
     </dependencies>
 
 </project>

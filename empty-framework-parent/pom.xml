@@ -130,11 +130,15 @@
 
             <!-- empty framework start -->
             <dependency>
-                <groupId>empty.base</groupId>
-                <artifactId>base-framework-core</artifactId>
+                <groupId>com.empty</groupId>
+                <artifactId>empty-framework-core</artifactId>
                 <version>${empty-framework.version}</version>
             </dependency>
-
+            <dependency>
+                <groupId>com.empty</groupId>
+                <artifactId>empty-framework-common</artifactId>
+                <version>${empty-framework.version}</version>
+            </dependency>
             <!-- framework starters -->
             <!-- framework end -->
 
